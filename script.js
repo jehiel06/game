@@ -61,8 +61,7 @@ function fun()
     document.getElementById('res').innerHTML=msg;
     document.getElementById('r').innerHTML="Refresh And Try Again!!!";
 }
- <!--
-            function AutoRefresh( t ) {
+  function AutoRefresh( t ) {
                setTimeout("location.reload(true);", t);
             }
-         //-->
+        
