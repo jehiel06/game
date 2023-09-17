@@ -1,0 +1,42 @@
+body{
+    .game-title{
+        text-align:center;
+        color:rgba(250, 8, 8, 0.918);
+        border:3px solid black;
+        width:70%;
+        margin:0 auto;
+    }
+    .fb-rps img:hover{
+        box-shadow: 0px 15px 50px hsla(236, 97%, 37%, 0.87);
+        }
+    .fb-rps{
+        display:flex;
+        border: 2px solid black;
+        padding: 10px;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    #res{
+        padding:20px;
+        text-align:center;
+        color:green;
+        width:70%;
+        margin:0 auto;
+
+    }
+    #r
+    {
+        padding:20px;
+        text-align:center;
+        color:black;
+        width:70%;
+        margin:0 auto;
+}
+#jehi{
+    text-align:end;
+    margin-right: 50px;
+    color:red;
+    width:85%;
+}
+}
