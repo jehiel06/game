@@ -64,6 +64,3 @@ function fun()
   function AutoRefresh( t ) {
                setTimeout("location.reload(true);", t);
             }
-        setTimeout(function(){
-   window.location.reload();
-}, 5000);
